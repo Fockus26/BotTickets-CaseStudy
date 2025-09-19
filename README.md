@@ -129,4 +129,5 @@ Este proyecto representó un reto complejo en automatización web. Fue necesario
 This repository contains only a public case study. The original implementation was delivered as a private commercial solution.
 
 **Español**
+
 Este repositorio contiene únicamente un estudio de caso público. La implementación original fue entregada como una solución comercial privada.
