@@ -76,12 +76,13 @@ The final solution automated the ticket purchasing process end-to-end, from acco
 
 ---
 
-## 📈 Future Improvements
+## 📈 Learnings & Insights
 
-- 🤖 AI-based captcha solving for more reliability  
-- 📊 Dashboard for tracking tickets purchased and accounts used  
-- 🔐 Secure vault for payment data management  
-- 🌐 Expansion to more ticket platforms  
+- Web automation requires careful handling of anti-bot protections and verification flows
+- End-to-end automation benefits from integrating client confirmation steps
+- Proxy rotation and session management are crucial for reliability in high-demand scenarios
+- Smart seat selection can be optimized by analyzing network requests rather than UI scraping
+- Automating purchases across multiple platforms demands modular, reusable workflows
 
 ---
 
